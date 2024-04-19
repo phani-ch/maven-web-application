@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to tomcat. </h1>
-<h1 align="center"> Mithun Software Solutions- Very Good Training center for DevOps with AWS in Maratha Halli Bangalore India and also for Job Assitance Job Support also.Teaching Real Time scnerios..and the timings is 10 to 12 am</h1>
+<h1 align="center">hello sumanth </h1>
+<h1 align="center"> devops training</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
